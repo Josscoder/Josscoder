@@ -7,7 +7,7 @@ I am passionate about Minecraft, I like to propose new challenges and do new thi
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/josscoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="josscoder" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/josscoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="josscoder" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@josscoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="josscoder" height="30" width="40" /></a>
 <a href="https://discord.gg/Josscoder#9867" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Josscoder#9867" height="30" width="40" /></a>
 </p>
 
