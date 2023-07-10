@@ -17,7 +17,7 @@ I am passionate about Minecraft, I like to propose new challenges and do new thi
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=java,cpp,cs,docker,git,graphql,html,ai,ps,js,ts,linux,mysql,mongodb,nodejs,php,rabbitmq,react,redis,sqlite,dotnet,eclipse,atom,idea&theme=dark&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cpp,cs,docker,git,graphql,html,ai,ps,js,ts,linux,mysql,mongodb,nodejs,php,rabbitmq,react,redis,sqlite,dotnet,eclipse,atom,idea&theme=dark&perline=4)](https://skillicons.dev)
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/josscoder"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi1.png?v=3" height="50" width="210" alt="josscoder" /></a></p><br><br>
