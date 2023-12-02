@@ -11,7 +11,7 @@ I am passionate about Minecraft, I like to propose new challenges and do new thi
 <a href="https://twitter.com/josscoder" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="josscoder" height="50" width="50" /></a>
 <a href="https://linkedin.com/in/josé-luciano-mejia-arias-191243209" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="josé-luciano-mejia-arias-191243209" height="50" width="50" /></a>
 <a href="https://instagram.com/josscoder" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="josscoder" height="50" width="50" /></a>
-<a href="https://www.youtube.com/c/josscoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="josscoder" height="50" width="50" /></a>
+<a href="https://www.youtube.com/@josscoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="josscoder" height="50" width="50" /></a>
 <a href="https://discord.gg/josscoder" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="josscoder" height="50" width="50" /></a>
 </p>
 
