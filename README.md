@@ -1,10 +1,6 @@
 ![Header](header.png)
 
-I am passionate about Minecraft, I like to propose new challenges and do new things
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Tilt+Warp&pause=1000&width=435&lines=Live+each+day+of+your+life+as+if+it+were+the+last)](https://git.io/typing-svg)
-
-![Counter](https://komarev.com/ghpvc/?username=josscoder&color=blue)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=600&size=23&duration=3000&pause=1000&color=F7EFF3&vCenter=true&multiline=true&random=true&width=435&lines=Agricultural+engineer+and+Software+Dev)](https://git.io/typing-svg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,7 +13,4 @@ I am passionate about Minecraft, I like to propose new challenges and do new thi
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=java,cpp,cs,docker,git,graphql,html,ai,ps,js,ts,linux,mysql,mongodb,nodejs,php,rabbitmq,react,redis,sqlite,dotnet,eclipse,atom,idea&theme=dark&perline=5)](https://skillicons.dev)
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/josscoder"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi1.png?v=3" height="50" width="210" alt="josscoder" /></a></p><br><br>
+[![My Skills](https://skillicons.dev/icons?i=java,cpp,cs,docker,git,graphql,html,ai,ps,js,ts,linux,mysql,mongodb,nodejs,php,rabbitmq,react,redis,sqlite,dotnet,eclipse,atom,idea&theme=dark&perline=10)](https://skillicons.dev)
