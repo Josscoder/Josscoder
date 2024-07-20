@@ -7,6 +7,8 @@ Now, I find great joy in working within the realm of DevOps and game development
 
 I'm a strong advocate for open source and love contributing to and collaborating on open-source projects. This community-driven approach allows me to continuously learn, share knowledge, and innovate within the tech space.
 
+My old projects are at [Joss Archived](https://github.com/JossArchived)
+
 # Some of my skills
 [![My Skills](https://skillicons.dev/icons?i=java,androidstudio,kotlin,c,cpp,cs,dotnet,docker,kubernetes,js,ts,linux,react,nextjs,express,laravel,graphql,nestjs,sqlite,mysql,mongo,redis,bots,discord,nginx,cloudflare,vercel,grafana,git,github,nodejs,npm,maven,gradle,vscode,sublime,idea,webstorm,clion,phpstorm,rider,postman,ps,powershell,rabbitmq,vim&perline=20)](https://skillicons.dev)
 
